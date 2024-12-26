@@ -10,9 +10,13 @@
 
 
 🛠️ 주요 기술 스택
+
 Python: 데이터 수집 및 처리
+
 MySQL: 데이터 저장
+
 Yahoo Finance API: QQQ ETF 데이터 수집
+
 FRED API: 경제 지표 데이터 수집
 
 
